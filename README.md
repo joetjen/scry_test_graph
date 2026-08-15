@@ -21,9 +21,8 @@ kind's own future real adapter's test suite, once one exists) plus
 `scry_core`'s own `mix scry.query`/`mix scry.iex`, configured here, for
 ad-hoc exploration.
 
-Source: <https://github.com/joetjen/scry_test_graph>. Specs live in
-the separate [`scry`](https://github.com/joetjen/scry) repository; the
-kind this exercises lives in
+Source: <https://github.com/joetjen/scry_test_graph>. The kind this
+exercises lives in
 [`scry_graph`](https://github.com/joetjen/scry_graph).
 
 ## Usage
